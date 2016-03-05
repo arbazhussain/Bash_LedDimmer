@@ -1,0 +1,7 @@
+HCI sniffer - Bluetooth packet analyzer ver 5.11
+device: hci0 snap_len: 1500 filter: 0xffffffff
+< 01 0C 20 02 00 00 
+> 04 3E 21 02 01 00 01 D6 88 D2 12 C4 70 15 02 01 1A 11 07 61 
+  A9 07 AD D1 17 2F A1 C4 4B F5 73 F4 39 0A 86 C2 
+> 04 3E 0C 02 01 04 01 D6 88 D2 12 C4 70 00 C2 
+> 04 0E 04 01 0C 20 00 
